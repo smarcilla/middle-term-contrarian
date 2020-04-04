@@ -7,5 +7,11 @@
     "test": "jest"
   },
   "author": "Sergio Marcilla",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@middle-term-contrarian/core": "0.1.1"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
 }

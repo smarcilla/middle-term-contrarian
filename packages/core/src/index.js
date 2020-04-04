@@ -1,5 +1,5 @@
-import Db from '../db';
+const Db = require('../db');
 
-export default {
+module.exports = {
   Db,
 };
