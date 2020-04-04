@@ -1,0 +1,14 @@
+{
+  "name": "@middle-term-contrarian/components",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sergio Marcilla",
+  "license": "ISC",
+  "dependencies": {
+    "@middle-term-contrarian/services": "0.0.0"
+  }
+}

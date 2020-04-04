@@ -1,0 +1,7 @@
+{
+  "name": "middle-term-contrarian",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
