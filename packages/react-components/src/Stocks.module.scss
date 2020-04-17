@@ -1,6 +1,16 @@
+$container-border-color: dimgrey;
+$container-background-color: rgb(228, 222, 222);
+$row-header-color: rgb(228, 222, 222);
+$row-header-background-color: dimgrey;
+
+/*$container-border-color: red;
+$container-background-color: rgb(255, 222, 222);
+$row-header-color: rgb(255, 222, 222);
+$row-header-background-color: red;*/
+
 .container {
-  background-color: rgb(228, 222, 222);
-  border-color: dimgrey;
+  background-color: $container-background-color;
+  border-color: $container-border-color;
   border-style: solid;
   border-radius: 0.5em;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,8 +19,8 @@
 .rowHeader {
   font-weight: bolder;
   font-size: 1.3em;
-  background-color: dimgrey;
-  color: rgb(228, 222, 222);
+  background-color: $row-header-color;
+  color: $row-header-background-color;
 }
 
 .rowContent {
