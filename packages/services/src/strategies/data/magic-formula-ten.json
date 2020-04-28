@@ -1,0 +1,112 @@
+[
+  {
+    "name": "International Consolidated Airlines Group, S.A.",
+    "code": "IAG.MC",
+    "ev": 19350000000,
+    "ebit": 2606000000,
+    "currentAssets": 11327000000,
+    "totalAssets": 35661000000,
+    "currentLiabilities": 12748000000,
+    "totalLiabilities": 28832000000,
+    "ranking": 4
+  },
+  {
+    "name": "Red Electrica Corporacion, S.A.",
+    "code": "REE.MC",
+    "ev": 9660000000,
+    "ebit": 1075007000,
+    "currentAssets": 1786808000,
+    "totalAssets": 12661960000,
+    "currentLiabilities": 2272175000,
+    "totalLiabilities": 9047526000,
+    "ranking": 9
+  },
+  {
+    "name": "ACS, Actividades de Construccion y Servicios, S.A.",
+    "code": "ACS.MC",
+    "ev": 12810000000,
+    "ebit": 1577212000,
+    "currentAssets": 24242973000,
+    "totalAssets": 38591726000,
+    "currentLiabilities": 24054824000,
+    "totalLiabilities": 33095820000,
+    "ranking": 10
+  },
+  {
+    "name": "Telefonica, S.A.",
+    "code": "TEF.MC",
+    "ev": 27650000000,
+    "ebit": 3641000000,
+    "currentAssets": 24328000000,
+    "totalAssets": 118877000000,
+    "currentLiabilities": 30191000000,
+    "totalLiabilities": 93427000000,
+    "ranking": 12
+  },
+  {
+    "name": "Aena S.M.E., S.A.",
+    "code": "AENA.MC",
+    "ev": 32280000000,
+    "ebit": 2013054000,
+    "currentAssets": 752742000,
+    "totalAssets": 14890543000,
+    "currentLiabilities": 2080514999.9999998,
+    "totalLiabilities": 8508666999.999999,
+    "ranking": 13
+  },
+  {
+    "name": "Amadeus IT Group, S.A.",
+    "code": "AMS.MC",
+    "ev": 34570000000,
+    "ebit": 1475400000,
+    "currentAssets": 1443100000,
+    "totalAssets": 10401100000,
+    "currentLiabilities": 2970300000,
+    "totalLiabilities": 6604000000,
+    "ranking": 14
+  },
+  {
+    "name": "Naturgy Energy Group, S.A.",
+    "code": "NTGY.MC",
+    "ev": 36570000000,
+    "ebit": 3094000000,
+    "currentAssets": 8787000000,
+    "totalAssets": 41138000000,
+    "currentLiabilities": 6867000000,
+    "totalLiabilities": 27162000000,
+    "ranking": 14
+  },
+  {
+    "name": "Endesa, S.A.",
+    "code": "ELE.MC",
+    "ev": 31000000000,
+    "ebit": 1724000000,
+    "currentAssets": 6100000000,
+    "totalAssets": 31981000000,
+    "currentLiabilities": 8465000000,
+    "totalLiabilities": 24144000000,
+    "ranking": 16
+  },
+  {
+    "name": "Airbus SE",
+    "code": "AIR.MC",
+    "ev": 106530000000,
+    "ebit": 1022000000,
+    "currentAssets": 56723000000,
+    "totalAssets": 114409000000,
+    "currentLiabilities": 62374000000,
+    "totalLiabilities": 108419000000,
+    "ranking": 17
+  },
+  {
+    "name": "Iberdrola, S.A.",
+    "code": "IBE.MC",
+    "ev": 92360000000,
+    "ebit": 6154512000,
+    "currentAssets": 13557693000,
+    "totalAssets": 122369006000,
+    "currentLiabilities": 19131242000,
+    "totalLiabilities": 75174341000,
+    "ranking": 18
+  }
+]

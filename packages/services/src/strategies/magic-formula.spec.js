@@ -8,7 +8,7 @@ describe('calcMagicFormula function', () => {
     test('should return sector stocks ordered', () => {
       const stocks = calcMagicFormula({ year, sector });
 
-      console.log(stocks);
+      //console.log(stocks);
     });
   });
   describe('when calc formula ', () => {
@@ -17,7 +17,7 @@ describe('calcMagicFormula function', () => {
     test('should return sector stocks ordered', () => {
       const stocks = calcMagicFormula({ year });
 
-      console.log(stocks);
+      //console.log(stocks);
     });
   });
 });
